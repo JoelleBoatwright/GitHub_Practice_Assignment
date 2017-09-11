@@ -1,7 +1,6 @@
-
 Today is 9/11 and it should never be forgotten 
 
 hey
 September is the current month.
 But October is the best month
-
+fixed the space at the top
