@@ -1,0 +1,1 @@
+This project is made to help us practice using Git and GitHub.
